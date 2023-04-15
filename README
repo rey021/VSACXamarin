@@ -84,3 +84,9 @@ When you are reporting any issue in the Q&A, please share at least the below inf
 5. Share the code snippet.
 
 6. Screenshots, if applicable.
+
+
+================
+
+setup
+- npm install -g appium@next
